@@ -1,0 +1,33 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine;
+}
+.container{
+    width: 286px;
+    height: 300px;
+    background-color: black;
+    border-radius: 5px;
+    justify-content: center;
+}
+input{
+    width: 50px;
+    height: 50px;
+    padding: 15px;
+    margin-left: 15px;
+    margin-top: 5px;
+    border-radius: 8px;
+}
+#display{
+    width: 80%;
+    height: 20px;
+    margin-top: 10px;
+    outline: none;
+    border: none;
+}
+#final{
+    width: 120px;
+}
